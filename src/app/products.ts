@@ -39,7 +39,7 @@ export const products = [
     name: 'Julmust',
     price: 29,
     description: '',
-    image: '../assets/julmust.PNG'
+    image: 'assets/julmust.PNG'
   },
   {
     id: 6,
