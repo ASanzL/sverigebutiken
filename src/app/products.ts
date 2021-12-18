@@ -25,14 +25,14 @@ export const products = [
     name: 'Ahlgrensbilar',
     price: 299,
     description: '',
-    image: '.assets/bilar.PNG'
+    image: 'assets/bilar.PNG'
   },
   {
     id: 4,
     name: 'Julmust',
     price: 29,
     description: '',
-    image: '.assets/julmust.PNG'
+    image: 'assets/julmust.PNG'
   },
   {
     id: 5,
