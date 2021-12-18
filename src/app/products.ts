@@ -11,28 +11,28 @@ export const products = [
     name: 'Julmust',
     price: 29,
     description: '',
-    image: '../assets/julmust.PNG'
+    image: 'assets/julmust.PNG'
   },
   {
     id: 2,
     name: 'Pepparkakor',
     price: 39,
     description: '',
-    image: '../assets/annas.PNG'
+    image: 'assets/annas.PNG'
   },
   {
     id: 3,
     name: 'Ahlgrensbilar',
     price: 299,
     description: '',
-    image: '../assets/bilar.PNG'
+    image: '.assets/bilar.PNG'
   },
   {
     id: 4,
     name: 'Julmust',
     price: 29,
     description: '',
-    image: '../assets/julmust.PNG'
+    image: '.assets/julmust.PNG'
   },
   {
     id: 5,
@@ -46,20 +46,20 @@ export const products = [
     name: 'Pepparkakor',
     price: 39,
     description: '',
-    image: '../assets/annas.PNG'
+    image: 'assets/annas.PNG'
   },
   {
     id: 7,
     name: 'Ahlgrensbilar',
     price: 299,
     description: '',
-    image: '../assets/bilar.PNG'
+    image: 'assets/bilar.PNG'
   },
   {
     id: 8,
     name: 'Julmust',
     price: 29,
     description: '',
-    image: '../assets/julmust.PNG'
+    image: 'assets/julmust.PNG'
   },
 ];
